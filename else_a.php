@@ -8,3 +8,4 @@ function notas ($a){
 }
 echo notas(1)."<br>";
 echo notas(9)."<br>";
+?>
