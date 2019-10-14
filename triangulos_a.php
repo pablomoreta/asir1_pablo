@@ -1,14 +1,14 @@
 <?php
 function tipo($a, $b, $c) {
-	$r='escaleno';
-		if ($a==$b || $a==$c) {
-			$r='isosceles';
-		if($b==$c)
-			$r='equilatero';
+			$r='Escaleno';
+				if ($a==$b || $a==$c) {
+			$r='Isosceles';
+				if($b==$c)
+			$r='Equilatero';
 	}
 	return $r;
 }
-echo tipo(1,1,1)."<br>";
-echo tipo(1,1,6)."<br>";
-echo tipo(2,3,4)."<br>";
+echo tipo(4,4,4)."<br>";
+echo tipo(1,1,4)."<br>";
+echo tipo(1,2,3)."<br>";
 ?>
