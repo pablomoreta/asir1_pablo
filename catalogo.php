@@ -8,8 +8,6 @@
 <br> </br>
 <a href="https://github.com/deivisg98" target="_blank">David</a>
 <br> </br>
-<a href="https://github.com/bruno38pla/ASIR1_BRUNO" target="_blank">Bruno</a></br>
-<br> </br>
 <a href="https://github.com/adrivg19/asir1_adrian" target="_blank">Adrian</a>
 <br> </br>
 <a href="https://github.com/bruno38pla/ASIR1_BRUNO" target="_blank">Bruno</a>
