@@ -30,7 +30,7 @@
 <br> </br>
 <a href="https://github.com/serran24/asir1_victor" target="_blank">Victor Serrano</a>
 <br> </br>
-<a href="https://github.com/kevin-raico-97" target="_blank">Kevin Roldan</a>
+<a href="https://github.com/kevin-raico-97" target="_blank">Kevin Raico</a>
 <br> </br>
 <a href="https://github.com/rolandoMH96/Asir1-RMH" target="_blank">Rolando</a>
 <br> </br>
