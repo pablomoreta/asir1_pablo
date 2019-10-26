@@ -14,6 +14,10 @@ Palacio De la Magdalena<br>El Sardinero,Playa,Casino y Surf<br>Península De la 
 <font color="purple" style="font-size:15px" face="italic">
 
 <p>La ciudad de Santander se sitúa al norte de España bañada por el mar Cantábrico y pertenece a la comunidad autónoma de Cantabria.</p>
+<h4 style="color:red"><u><b>Clima</u></b></h4>
+<p width="50px">En Santander, los veranos son cómodos y secos; los inviernos son largos, fríos, mojados y ventosos y está parcialmente nublado durante todo el año. Durante el transcurso del año, la temperatura generalmente varía de 6 °C a 23 °C y rara vez baja a menos de 1 °C o sube a más de 26 °C.
+
+En base a la puntuación de turismo, la mejor época del año para visitar Santander para actividades de tiempo caluroso es desde finales de junio hasta principios de septiembre</p>
 
 </font>
 </br>
@@ -22,18 +26,11 @@ Palacio De la Magdalena<br>El Sardinero,Playa,Casino y Surf<br>Península De la 
 <img src="centro.jpg" width="420">
 </br>
 
-<table border="2" bordercolor="orangered"">
-
-
-
+<table border="2"  bordercolor="orangered"">
   <tr align="center">
-
     <td>Autonomía</td>
-
     <td>Provincia</td>
-
   </tr>
-
 <tr align="center">
 	<td>Cantabria</td>
 	<td>Santander</td>
@@ -42,17 +39,14 @@ Palacio De la Magdalena<br>El Sardinero,Playa,Casino y Surf<br>Península De la 
 	<td>Galicia</td>
 	<td>La Coruña</td>
 </tr>
-
 <tr align="center">
 	<td>Galicia</td>
 	<td>Lugo</td>
 </tr>
-
 <tr align="center">
 	<td>Asturias</td>
 	<td>Gijón</td>
 </tr>
-
 <tr align="center">
 	<td>País Vasco</td>
 	<td>Bilbao</td>
@@ -65,7 +59,6 @@ Palacio De la Magdalena<br>El Sardinero,Playa,Casino y Surf<br>Península De la 
 </br>
 <h4 style="color:red"><u> Rellene el formulario con sus datos personales:</u></h4>
 <form action="datos.php" method="post">
-
 	Nombre: <input type="text" name="nombre"> </br>
 	Email: <input type="email" name="email"> </br>
 	<input type="submit" value="Enviar">
