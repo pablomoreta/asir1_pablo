@@ -1,0 +1,3 @@
+Calcluar el tiempo que queda hasta el findesemana 
+Página que almacene las edades de cada miembro de clase ordenandolos por la estaión del año que haya nacido
+Ordenar los repositorios de cada alumno de clase según su ultima modificación
