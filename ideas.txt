@@ -1,4 +1,5 @@
-Calcluar el tiempo que queda hasta el findesemana 
-Página que almacene las edades de cada miembro de clase ordenandolos por la estaión del año que haya nacido
-Ordenar los repositorios de cada alumno de clase según su ultima modificación
-Programa que nos muestre fotos
+Idea Nº1=>Calcluar el tiempo que queda hasta el findesemana 
+Idea Nº2=>Página que almacene las edades de cada miembro de clase ordenandolos por la estaión del año que haya nacido
+Idea Nº3=>Ordenar los repositorios de cada alumno de clase según su ultima modificación
+Idea Nº4=>Programa que nos muestre fotos
+Idea Nº5=>Crear un examen con php
