@@ -14,56 +14,93 @@ Palacio De la Magdalena<br>El Sardinero,Playa,Casino y Surf<br>Península De la 
 <font color="purple" style="font-size:15px" face="italic">
 
 <p>La ciudad de Santander se sitúa al norte de España bañada por el mar Cantábrico y pertenece a la comunidad autónoma de Cantabria.</p>
-<h4 style="color:red"><u><b>Clima</u></b></h4>
-<p width="50px">En Santander, los veranos son cómodos y secos; los inviernos son largos, fríos, mojados y ventosos y está parcialmente nublado durante todo el año. Durante el transcurso del año, la temperatura generalmente varía de 6 °C a 23 °C y rara vez baja a menos de 1 °C o sube a más de 26 °C.
-
-En base a la puntuación de turismo, la mejor época del año para visitar Santander para actividades de tiempo caluroso es desde finales de junio hasta principios de septiembre</p>
 
 </font>
 </br>
 <img src="localizacion.png" width="200">
 <img src="santander.jpg" width="230">
 <img src="centro.jpg" width="420">
-</br>
+<h3>Comunidades Autónomas y Provincias De España</h3>
+<table border="1" bordercolor="orangered"">
 
-<table border="2"  bordercolor="orangered"">
-  <tr align="center">
+  <tr bgcolor="green" align="center">
+  <tr bgcolor="orange" align="center">
+
     <td>Autonomía</td>
+
     <td>Provincia</td>
+
   </tr>
+
 <tr align="center">
 	<td>Cantabria</td>
 	<td>Santander</td>
 </tr>
+
 <tr align="center">
-	<td>Galicia</td>
-	<td>La Coruña</td>
+	<td>Madrid</td>
+	<td>Madrid</td>
+</tr>
+
+<tr align="center">
+	<td>Murcia</td>
+	<td>Murcia</td>
+</tr>
+
+<tr align="center">
+	<td>Castilla Y León</td>
+	<td>Valladolid</td>
+</tr>
+
+<tr align="center">
+	<td>Comunidad Valenciana</td>
+	<td>Valencia</td>
+</tr>
+<tr align="center">
+	<td>País Vasco</td>
+	<td>Vitoria</td>
 </tr>
 <tr align="center">
 	<td>Galicia</td>
-	<td>Lugo</td>
+	<td>Santiago De Compostela</td>
+</tr>
+<tr align="center">
+	<td>Extremadura</td>
+	<td>Mérida</td>
+</tr>
+<tr align="center">
+	<td>Aragón</td>
+	<td>Zaragoza</td>
+</tr>
+<tr align="center">
+	<td>Cataluña</td>
+	<td>Barcelona</td>
 </tr>
 <tr align="center">
 	<td>Asturias</td>
-	<td>Gijón</td>
+	<td>Oviedo</td>
 </tr>
 <tr align="center">
-	<td>País Vasco</td>
-	<td>Bilbao</td>
+	<td>Castilla La Mancha</td>
+	<td>Toledo</td>
 </tr>
 <tr align="center">
-	<td>País Vasco</td>
-	<td>San Sebastián</td>
+	<td>Comunidad Foral De Navarra</td>
+	<td>Navarra</td>
+</tr>
+<tr align="center">
+	<td>Andalucía</td>
+	<td>Sevilla</td>
+</tr>
+<tr align="center">
+	<td>Islas Canarias</td>
+	<td>Tenerife y Las palmas</td>
+</tr>
+<tr align="center">
+	<td>Islas Baleares</td>
+	<td>Palma De Mallorca</td>
 </tr>
 </table>
-</br>
-<h4 style="color:red"><u> Rellene el formulario con sus datos personales:</u></h4>
-<form action="datos.php" method="post">
-	Nombre: <input type="text" name="nombre"> </br>
-	Email: <input type="email" name="email"> </br>
-	<input type="submit" value="Enviar">
-</form>
-		
 </center>
 </body>
 </html>
