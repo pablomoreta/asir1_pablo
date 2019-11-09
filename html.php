@@ -20,11 +20,9 @@ Palacio De la Magdalena<br>El Sardinero,Playa,Casino y Surf<br>Península De la 
 <img src="localizacion.png" width="200">
 <img src="santander.jpg" width="230">
 <img src="centro.jpg" width="420">
-<h3>Comunidades Autónomas y Provincias De España</h3>
-<table border="1" bordercolor="orangered"">
+<table border="2" bordercolor="orangered"">
 
-  <tr bgcolor="green" align="center">
-  <tr bgcolor="orange" align="center">
+  <tr align="center">
 
     <td>Autonomía</td>
 
@@ -36,71 +34,37 @@ Palacio De la Magdalena<br>El Sardinero,Playa,Casino y Surf<br>Península De la 
 	<td>Cantabria</td>
 	<td>Santander</td>
 </tr>
-
 <tr align="center">
-	<td>Madrid</td>
-	<td>Madrid</td>
+	<td>Galicia</td>
+	<td>La Coruña</td>
 </tr>
 
 <tr align="center">
-	<td>Murcia</td>
-	<td>Murcia</td>
+	<td>Galicia</td>
+	<td>Lugo</td>
 </tr>
 
 <tr align="center">
-	<td>Castilla Y León</td>
-	<td>Valladolid</td>
+	<td>Asturias</td>
+	<td>Gijón</td>
 </tr>
 
 <tr align="center">
-	<td>Comunidad Valenciana</td>
-	<td>Valencia</td>
+	<td>País Vasco</td>
+	<td>Bilbao</td>
 </tr>
 <tr align="center">
 	<td>País Vasco</td>
-	<td>Vitoria</td>
-</tr>
-<tr align="center">
-	<td>Galicia</td>
-	<td>Santiago De Compostela</td>
-</tr>
-<tr align="center">
-	<td>Extremadura</td>
-	<td>Mérida</td>
-</tr>
-<tr align="center">
-	<td>Aragón</td>
-	<td>Zaragoza</td>
-</tr>
-<tr align="center">
-	<td>Cataluña</td>
-	<td>Barcelona</td>
-</tr>
-<tr align="center">
-	<td>Asturias</td>
-	<td>Oviedo</td>
-</tr>
-<tr align="center">
-	<td>Castilla La Mancha</td>
-	<td>Toledo</td>
-</tr>
-<tr align="center">
-	<td>Comunidad Foral De Navarra</td>
-	<td>Navarra</td>
-</tr>
-<tr align="center">
-	<td>Andalucía</td>
-	<td>Sevilla</td>
-</tr>
-<tr align="center">
-	<td>Islas Canarias</td>
-	<td>Tenerife y Las palmas</td>
-</tr>
-<tr align="center">
-	<td>Islas Baleares</td>
-	<td>Palma De Mallorca</td>
+	<td>San Sebastián</td>
 </tr>
 </table>
+<p>Formulario De Suscripción:</p>
+<form action="santander.php" method="post">
+	Nombre: <input type="text" name="nombre"> </br>
+	DNI: <input type="text" name="DNI"> </br>
+	Email: <input type="email" name="email"> </br>
+	<input type="submit" value="Enviar">
+</form>
 </center>
 </body>
 </html>
