@@ -12,8 +12,7 @@ Palacio De la Magdalena<br>El Sardinero,Playa,Casino y Surf<br>Península De la 
 
 </font>
 
-<font face="italic" marginwidth="20" font size="2"><h4><b>Localización</b></h4>
-<left>
+<font face="cambria" marginwidth="20" font size="2"><h4><b>Localización</b></h4>
 
 <p>La ciudad de Santander se sitúa al norte de España bañada por el mar Cantábrico y pertenece a la comunidad autónoma de Cantabria.</p>
 
