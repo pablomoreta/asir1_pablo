@@ -1,6 +1,6 @@
 <?php
 function mes ($n){
-	$mes= [[
+	$a= [[
 		
 		'mes'=>'Enero',
 		'dias'=>'31',
@@ -62,9 +62,14 @@ function mes ($n){
 		'estacion'=>'Invierno'
 	],
 	];
-	return $mes[$n-1];
+	$r=null;
+	$r=$r.$a[$n-1]['mes']."<br>";
+	$r=$r.$a[$n-1]['dias']."<br>";
+	$r=$r.$a[$n-1]['estacion']."<br>";
+	return $r;
 }
-echo mes (2)['mes']."<br>";
-echo mes (12)['dias']."<br>";
-echo mes (4)['estacion']."<br>";
+echo mes(1)."<br>";
+echo mes(5)."<br>";
+echo mes(8)."<br>";
+echo mes(12)."<br>";
 ?>
