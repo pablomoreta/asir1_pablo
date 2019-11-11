@@ -8,7 +8,7 @@ function tipo($a, $b, $c) {
 	}
 	return $r;
 }
-echo tipo(4,4,4)."<br>";
-echo tipo(1,1,4)."<br>";
-echo tipo(1,2,3)."<br>";
+echo tipo(1,1,1)."¿equilátero?<br>";
+echo tipo(1,2,2)."¿isósceles?<br>";
+echo tipo(1,2,3)."¿escaleno?<br>";
 ?>
