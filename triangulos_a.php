@@ -11,4 +11,8 @@ function tipo($a, $b, $c) {
 echo tipo(1,1,1)."¿equilátero?<br>";
 echo tipo(1,2,2)."¿isósceles?<br>";
 echo tipo(1,2,3)."¿escaleno?<br>";
+echo tipo(2,2,1)."¿isosceles?<br>";
+echo tipo(2,3,1)."¿escaleno?<br>";
+echo tipo(2,1,2)."¿isosceles?<br>";
+echo tipo(3,4,5)."¿escaleno?<br>";
 ?>
