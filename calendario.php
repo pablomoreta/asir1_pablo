@@ -1,75 +1,96 @@
 <?php
-function mes ($n){
-	$a= [[
+function Meses ($p){
+	$b= [[
 		
-		'mes'=>'Enero',
-		'dias'=>'31',
-		'estacion'=>'Invierno'
+		'Meses'=>'Enero',
+		'Dias'=>'31',
+		'Estaciones'=>'Invierno'
+		
 	],
 	[
-		'mes'=>'Febrero',
-		'dias'=>'28',
-		'estacion'=>'Invierno'
+		'Meses'=>'Febrero',
+		'Dias'=>'28',
+		'Estaciones'=>'Invierno'
+	],
+
+	[	
+		'Meses'=>'Marzo',
+		'Dias'=>'31',
+		'Estaciones'=>'Primavera'
+		
+		
 	],
 	[	
-		'mes'=>'Marzo',
-		'dias'=>'31',
-		'estacion'=>'Primavera'
+		'Meses'=>'Abril',
+		'Dias'=>'30',
+		'Estaciones'=>'Primavera'
 	],
 	[	
-		'mes'=>'Abril',
-		'dias'=>'30',
-		'estacion'=>'Primavera'
-	],
-	[	
-		'mes'=>'Mayo',
-		'dias'=>'31',
-		'estacion'=>'Primavera'
+	
+		'Meses'=>'Mayo',
+		'Dias'=>'31',
+		'Estaciones'=>'Primavera'
 	],
 	[
-		'mes'=>'Junio',
-		'dias'=>'30',
-		'estacion'=>'Verano'
+	
+		'Meses'=>'Junio',
+		'Dias'=>'30',
+		'Estaciones'=>'Verano'
 	],
 	[	
-		'mes'=>'Julio',
-		'dias'=>'31',
-		'estacion'=>'Verano'
+		'Meses'
+		=>'Julio',
+		'Dias'=>'31',
+		'Estaciones'=>'Verano'
 	],
 	[
-		'mes'=>'Agosto',
-		'dias'=>'31',
-		'estacion'=>'Verano'
+	
+	
+		'Meses'=>'Agosto',
+		'Dias'=>'31',
+		'Estaciones'=>'Verano'
 	],
 	[	
-		'mes'=>'Septiembre',
-		'dias'=>'30',
-		'estacion'=>'Otoño'
+	
+		'Meses'=>'Septiembre',
+		'Dias'=>'30',
+		'Estaciones'=>'Otoño'
 	],
 	[	
-		'mes'=>'Octubre',
-		'dias'=>'31',
-		'estacion'=>'Otoño'
+	
+		'Meses'=>'Octubre',
+		'Dias'=>'31',
+		'Estaciones'=>'Otoño'
 	],
 	[
-		'mes'=>'Noviembre',
-		'dias'=>'30',
-		'estacion'=>'Otoño'
+	
+		'Meses'=>'Noviembre',
+		'Dias'=>'30',
+		'Estaciones'=>'Otoño'
 	],
 	[	
-		'mes'=>'Diciembre',
-		'dias'=>'31',
-		'estacion'=>'Invierno'
+	
+		'Meses'=>'Diciembre',
+		'Dias'=>'31',
+		'Estaciones'=>'Invierno'
 	],
 	];
 	$r=null;
-	$r=$r.$a[$n-1]['mes']."<br>";
-	$r=$r.$a[$n-1]['dias']."<br>";
-	$r=$r.$a[$n-1]['estacion']."<br>";
+	$r=$r.$b[$p-1]['Meses']."<br>";
+	$r=$r.$b[$p-1]['Dias']."<br>";
+	$r=$r.$b[$p-1]['Estaciones']."<br>";
 	return $r;
 }
-echo mes(1).'¿Enero?<br>';
-echo mes(5).'¿Mayo?<br>';
-echo mes(8).'¿Agosto?<br>';
-echo mes(12).'¿Diciembre?<br>';
+echo Meses(1).'¿Enero?<br>';
+echo Meses(2).'¿Febrero?<br>';
+echo Meses(3).'¿Marzo?<br>';
+echo Meses(4).'¿Abril?<br>';
+echo Meses(5).'¿Mayo?<br>';
+echo Meses(6).'¿Junio?<br>';
+echo Meses(7).'¿Julio?<br>';
+echo Meses(8).'¿Agosto?<br>';
+echo Meses(9).'¿Septiembre?<br>';
+echo Meses(10).'¿Octubre?<br>';
+echo Meses(11).'¿Noviembre?<br>';
+echo Meses(12).'¿Diciembre?<br>';
 ?>
