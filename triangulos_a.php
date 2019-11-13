@@ -18,4 +18,8 @@ echo tipo(2,1,2)."¿isosceles?<br>";
 echo tipo(3,4,5)."¿escaleno?<br>";
 echo tipo(2,2,2)."¿equilatero?<br>";
 echo tipo(1,1,2)."¿isosceles?<br>";
+echo tipo(2,2,3)."¿isosceles?<br>";
+echo tipo(3,2,2)."¿isosceles?<br>";
+echo tipo(2,3,2)."¿isosceles?<br>";
+
 ?>
