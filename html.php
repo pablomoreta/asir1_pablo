@@ -4,15 +4,16 @@
 </head>
 <body bgcolor="aquamarine">
 <center>
+<table bgcolor="green" width="80%"  height="80%">
 <h1 align="center">Santander</h1>
 <h2 align="center">(Cantabria)</h2>
-<h4><u><b>Lugares de interés</u></b></h4>
+<h6><u><b>Lugares de interés</u></b></h6>
 <font color="red" size="2px" face="Comic Sans MS">
 Palacio De la Magdalena<br>El Sardinero,Playa,Casino y Surf<br>Península De la Magdalena<br>Centro Botín<br>Catedral De Santander<br>Jardines De Piquío<br>Faro De Cabo Mayor<br>Parque y Playa De Mataleñas<br>Playa De la Maruca<br>Muralla Medieval<br>Ruta Del Incendio<br>
 
 </font>
 
-<font face="cambria" marginwidth="20" font size="2"><h4><b>Localización</b></h4>
+<font face="cambria" size="2px"><h4><b>Localización</b></h4>
 
 <p>La ciudad de Santander se sitúa al norte de España bañada por el mar Cantábrico y pertenece a la comunidad autónoma de Cantabria.</p>
 
@@ -66,6 +67,8 @@ Palacio De la Magdalena<br>El Sardinero,Playa,Casino y Surf<br>Península De la 
 	Email: <input type="email" name="email"> </br>
 	<input type="submit" value="Enviar">
 </form>
+</table>
 </center>
+
 </body>
 </html>
