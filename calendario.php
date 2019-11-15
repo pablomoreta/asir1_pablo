@@ -12,7 +12,6 @@ function Meses ($p){
 		'Dias'=>'28',
 		'Estaciones'=>'Invierno'
 	],
-
 	[	
 		'Meses'=>'Marzo',
 		'Dias'=>'31',
