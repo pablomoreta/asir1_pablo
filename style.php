@@ -91,7 +91,6 @@
 		background-color: aquamarine;
 	}
 	
-	
   </style>
 </head>
 <body id="body">
