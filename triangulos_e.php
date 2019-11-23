@@ -38,3 +38,13 @@ $r=triangulo([1,1,sqrt(2)]);
 echo '<pre>';
 print_r($r);
 echo '</pre>';
+echo"triangulo isósceles y triangulo acutangulo";
+ 
+ function test($p){
+	 $r=triangulo($p);
+	 echo '<pre>';
+	 print_r($p);
+	 print_r($r);
+	 echo '</pre>';
+ }
+ echo 'isosceles-obtusangulo';test([2,2,3]);
