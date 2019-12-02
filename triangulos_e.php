@@ -47,4 +47,7 @@ echo"triangulo isósceles y triangulo acutangulo";
 	 print_r($r);
 	 echo '</pre>';
  }
- echo 'isosceles-obtusangulo';test([2,2,3]);
+ echo 'isosceles-rectangulo';test([2,2,3]);
+ echo 'isosceles-obtusangulo';test([1,2,3]);
+ echo 'escaleno-obtusangulo';test([1,1,1]);
+ 
